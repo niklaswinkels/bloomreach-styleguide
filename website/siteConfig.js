@@ -48,7 +48,7 @@ const siteConfig = {
   /* path to images for header/footer */
   headerIcon: 'img/bloomreachlogo.svg',
   footerIcon: 'img/bloomreachlogo.svg',
-  favicon: 'img/favicon.png',
+  favicon: 'https://www.bloomreach.com/webfiles/1522071970344/com_design/images/favicon64x64.png',
 
   /* colors for website */
   colors: {
