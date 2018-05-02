@@ -1,4 +1,5 @@
 ---
+id: writing-legal-content
 title: Writing Legal Content
 layout: article
 ---

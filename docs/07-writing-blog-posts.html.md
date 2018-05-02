@@ -1,4 +1,5 @@
 ---
+id: writing-blog-posts
 title: Writing Blog Posts
 layout: article
 ---

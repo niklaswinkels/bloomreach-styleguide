@@ -1,4 +1,5 @@
 ---
+id: writing-technical-content
 title: Writing Technical Content
 layout: article
 ---

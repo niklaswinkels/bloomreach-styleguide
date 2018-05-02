@@ -1,4 +1,5 @@
 ---
+id: web-elements
 title: Web Elements
 layout: article
 ---
@@ -40,7 +41,7 @@ Use title case for form titles and sentence case for form fields.
 
 Keep forms as short as possible.
 
-Only request information that we need and intend to use. Don’t ask for information that could be considered private or personal, including gender. If you need to ask for gender, provide a field the user can fill in on their own, not a drop-down menu. 
+Only request information that we need and intend to use. Don’t ask for information that could be considered private or personal, including gender. If you need to ask for gender, provide a field the user can fill in on their own, not a drop-down menu.
 
 ### Headings and subheadings
 

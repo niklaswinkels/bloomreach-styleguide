@@ -1,4 +1,5 @@
 ---
+id: writing-for-accessibility
 title: Writing for Accessibility
 layout: article
 ---

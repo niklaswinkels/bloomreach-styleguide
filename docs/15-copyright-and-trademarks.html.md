@@ -1,4 +1,5 @@
 ---
+id: copyright-and-trademarks
 title: Copyright and Trademarks
 layout: article
 ---

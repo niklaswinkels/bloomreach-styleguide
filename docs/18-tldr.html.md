@@ -1,4 +1,5 @@
 ---
+id: tl;dr
 title: TL;DR
 layout: article
 ---

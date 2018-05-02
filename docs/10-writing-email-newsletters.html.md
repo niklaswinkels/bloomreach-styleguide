@@ -1,4 +1,5 @@
 ---
+id: writing-email-newsletters
 title: Writing Email Newsletters
 layout: article
 ---

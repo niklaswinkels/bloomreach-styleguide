@@ -1,4 +1,5 @@
 ---
+id: writing-for-translation
 title: Writing for Translation
 layout: article
 ---

@@ -1,4 +1,5 @@
 ---
+id: word-list
 title: Word List
 layout: article
 ---

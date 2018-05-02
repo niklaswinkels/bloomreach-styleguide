@@ -1,4 +1,5 @@
 ---
+id: writing-about-people
 title: Writing About People
 layout: article
 ---

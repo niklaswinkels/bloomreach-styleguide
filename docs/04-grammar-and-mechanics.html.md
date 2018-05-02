@@ -1,4 +1,5 @@
 ---
+id: grammar-and-mechanics
 title: Grammar and Mechanics
 layout: article
 ---
@@ -78,7 +79,7 @@ Spell out a number when it begins a sentence. Otherwise, use the numeral. This i
 - Meg won 1st place in last year’s Walktober contest.
 - We hosted a group of 8th graders who are learning to code.
 
-(Sometimes it feels weird to use "1" instead of "one." Just go with your gut.) 
+(Sometimes it feels weird to use "1" instead of "one." Just go with your gut.)
 
 Numbers over 3 digits get commas:
 
@@ -234,7 +235,7 @@ Periods go inside quotation marks. They go outside parentheses when the parenthe
 - I ate a donut (and I ate a bagel, too).
 - I ate a donut and a bagel. (The donut was Sam’s.)
 
-Leave a single space between sentences. 
+Leave a single space between sentences.
 
 #### Question marks
 
@@ -312,7 +313,7 @@ Capitalize the names of departments and teams (but not the word "team" or "depar
 Capitalize individual job titles when referencing to a specific role. Don't capitalize when referring to the role in general terms.
 
 - Our new Marketing Manager starts today.
-- All the managers ate donuts. 
+- All the managers ate donuts.
 
 Don't refer to someone as a “ninja,” “rockstar,” or “wizard” unless they literally are one.
 
