@@ -22,10 +22,13 @@
     "word-list": "Word List",
     "further-reading": "Further Reading",
     "tl;dr": "TL;DR",
+    "logo": "Logo",
+    "colors": "Colors",
     "Docs": "Docs",
     "Help": "Help",
     "Blog": "Blog",
-    "GO TO SECTION": "GO TO SECTION"
+    "Basics": "Basics",
+    "Copy": "Copy"
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",

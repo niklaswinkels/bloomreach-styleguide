@@ -1,9 +1,31 @@
 /* your custom css */
 
-.postHeader {
-  background: -webkit-linear-gradient(#eee, #333);
+/* Gradient title of each page */
+h1 {
+  background: -webkit-linear-gradient(45deg, #00BCDC, #E04D8B);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+}
+
+/* Color of background of left sidebar */
+nav.toc .toggleNav .navGroup.navGroupActive {
+  background: #f9f9f9;
+}
+
+/* Faster transition on hover on left sidebar */
+nav.toc .toggleNav ul li a {
+    transition: color 0.2s;
+}
+
+/* Change color on sidebar section headers */
+nav.toc .toggleNav .navGroup.navGroupActive h3 {
+  background: #f9f9f9;
+  color: #101832;
+}
+
+/* Remove devider in sidebar between sections */
+nav.toc .toggleNav .navGroup {
+  margin: 0px 0;
 }
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {

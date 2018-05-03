@@ -19,7 +19,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: 'BloomReach Styleguide' /* title for your website */,
+  title: '' /* title for your website */,
   tagline: 'Welcome to the BloomReach Content Styleguide',
   url: 'styleguide.bloomreach.com' /* your website url */,
   baseUrl: '/' /* base url for your project */,
@@ -46,13 +46,13 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/dark-bloomreach-logo.png',
+  headerIcon: 'img/bloomreachlogo.svg',
   footerIcon: 'img/bloomreachlogo.svg',
   favicon: "img/favicon.png",
 
   /* colors for website */
   colors: {
-    primaryColor: '#101832',
+    primaryColor: '#00BCDC',
     secondaryColor: '#00BCDC',
   },
 
