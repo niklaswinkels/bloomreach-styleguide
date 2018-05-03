@@ -1,5 +1,11 @@
 /* your custom css */
 
+.postHeader {
+  background: -webkit-linear-gradient(#eee, #333);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 

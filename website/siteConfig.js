@@ -46,7 +46,7 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/bloomreachlogo.svg',
+  headerIcon: 'img/dark-bloomreach-logo.png',
   footerIcon: 'img/bloomreachlogo.svg',
   favicon: "img/favicon.png",
 
