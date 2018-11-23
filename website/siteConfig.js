@@ -19,7 +19,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: '' /* title for your website */,
+  title: 'BloomReach Styleguide' /* title for your website */,
   tagline: 'Welcome to the BloomReach Content Styleguide',
   url: 'styleguide.bloomreach.com' /* your website url */,
   baseUrl: '/' /* base url for your project */,
@@ -36,9 +36,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'intro', label: 'Docs'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    { search: true },
   ],
   // Edit URL for the edit buttons
   editUrl: "https://github.com/niklaswinkels/bloomreach-styleguide/tree/master/docs/",
@@ -47,7 +45,7 @@ const siteConfig = {
 
   /* path to images for header/footer */
   headerIcon: 'img/bloomreachlogo.svg',
-  footerIcon: 'img/bloomreachlogo.svg',
+  footerIcon: 'img/br_logo_diap.svg',
   favicon: "img/favicon.png",
 
   /* colors for website */
@@ -72,7 +70,7 @@ const siteConfig = {
   copyright:
     'Copyright © ' +
     new Date().getFullYear() +
-    ' Your Name or Your Company Name',
+    ' BloomReach B.V.',
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks
@@ -84,6 +82,13 @@ const siteConfig = {
 
   /* On page navigation for the current documentation page */
   onPageNav: 'separate',
+
+  /* Search */
+  algolia: {
+    apiKey: 'my-api-key',
+    indexName: 'my-index-name',
+    algoliaOptions: {} // Optional, if provided by Algolia
+  },
 
   /* Open Graph and Twitter card images */
   ogImage: 'img/docusaurus.png',
